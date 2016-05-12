@@ -41,7 +41,7 @@
 - レポートタイプは Opportunities にしてください。
 - レポート形式は tabular format  にしてください。
 - レポートは show all opportunitiesとし、すべての status 、 probability、close date を対象としてください。
-- レポートには次の項目を含めてください: `Opportunity Name`, `Type`, `Amount`, `Close Date`, `Stage`, and `Opportunity Owner`.
+- レポートには次の項目を含めてください: `Opportunity Name`, `Type`, `Amount`, `Close Date`, `Stage`, `Opportunity Owner`.
 - 次の条件を設定してください。
   - Amount が greater than $25000 USD
   - Stage が not equal to Closed Won または Closed Lost.
@@ -55,7 +55,7 @@
 - レポートタイプはリードにしてください。
 - レポートはマトリックス形式にしてください。私のリードを表示し、範囲は常時とします。
 - 列のグルーピングは評価としてください。
-- 行のグルーピングは評価としてください。
+- 行のグルーピングはリードソースとしてください。
 - 詳細を非表示に設定してください。
 
 ##データの視覚化
